@@ -58787,7 +58787,7 @@ r_(){var s=0,r=A.U(t.H),q=this,p
 var $async$r_=A.V(function(a,b){if(a===1)return A.R(b,r)
 while(true)switch(s){case 0:A.oB("Start LoadConfig")
 s=2
-return A.W($.xc().a_I("configFiles/config.json"),$async$r_)
+return A.W($.xc().a_I("assets/configFiles/config.json"),$async$r_)
 case 2:p=b
 A.oB("JSON loaded")
 q.am(new A.ZZ(q,p))
